@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+  {% include navigation.html %}
+  {% if page.kategorie == "Kontakt" %}
+  {% include kontakt_nav.html %}
+  {% endif }
+  <div class="parallax">
+    <div class="parallax_back">
+    <img src="/assets/images/sommer_hell.jpeg">
+    </div>
+    <div class="parallax_front">
+        {{ content }}
+    </div>
+  </div>  
+  </body>
+</html>
