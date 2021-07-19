@@ -1,6 +1,6 @@
 ---
 title: Lebendige Dörfer e.V.
-layout: default
+layout: single
 ---
 
 # Lebendige Dörfer e.V.
