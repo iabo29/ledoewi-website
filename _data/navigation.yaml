@@ -1,4 +1,10 @@
 - name: Start
   link: /start.html
+- name: Über uns
+  link: /ueberuns.html
+- name: Mitmachen
+  link: /mitmachen.html
+- name: Veranstaltungen
+  link: /veranstaltungen.html
 - name: Impressum
   link: /impressum.html
