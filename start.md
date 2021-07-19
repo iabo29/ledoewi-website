@@ -3,5 +3,5 @@ title: Lebendige Dörfer e.V.
 layout: default
 ---
 
-<h1> Lebendige Dörfer e.V. </h1>
+# Lebendige Dörfer e.V.
 Willkommen in Wichmar!
