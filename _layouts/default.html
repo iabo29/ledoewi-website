@@ -3,14 +3,14 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/assets/css/styles.css">
+    <link rel="stylesheet" href="{{ 'assets/css/bootstrap.min.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ 'assets/css/styles.css' | relative_url }}">
     <title>{{ page.title }}</title>
   </head>
   <body>
   <div class="parallax">
     <div class="parallax_back">
-    <img src="/assets/images/sommer_hell.jpeg">
+    <img src="{{ 'assets/images/sommer_hell.jpeg' | relative_url }}">
     </div>
     <div class="parallax_front">
         {{ content }}
