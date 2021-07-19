@@ -1,3 +1,8 @@
+---
+title: Impressum
+layout: single
+---
+
 # Impressum
 
 ## Anschrift
