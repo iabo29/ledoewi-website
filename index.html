@@ -1,0 +1,19 @@
+---
+title: Lebendige Dörfer e.V.
+layout: default
+---
+
+<div class="container">
+<h1> Lebendige Dörfer e.V. </h1>
+Willkommen in Wichmar!
+
+</div>
+<hr>
+
+{% for post in site.posts %}
+  <div class="container">
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    {{ post.content }}
+  <div>
+  <hr>
+{% endfor %}
