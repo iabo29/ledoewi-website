@@ -1,6 +1,7 @@
 ---
-Title: Index
+title: Lebendige Dörfer e.V.
 layout: single
 ---
 
-# Index
+# Lebendige Dörfer e.V.
+Willkommen in Wichmar!
