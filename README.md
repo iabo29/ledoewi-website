@@ -51,3 +51,7 @@ layout: einfach
 ```
 * Inhalt schreiben (markdown oder HTML)
 * Wenn die Seite im Menü oben erscheinen soll, dann die Datei `_data/navigation.yaml` editieren
+* Wenn die Seite im Menü unter 'Veranstaltungen' stehen soll, dann im YAML-Block oben folgende Zeile hinzufügen
+```
+kategorie: Veranstaltung
+```
