@@ -1,3 +1,3 @@
 # ledoewi-website
 
-Repository für die Website [https://dorf.wichmar.eu]
+Repository für die Website https://dorf.wichmar.eu
