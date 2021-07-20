@@ -1,9 +1,20 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <ul class="navbar-nav">
   {% for item in site.data.navigation %}
+  {% if item.name == "Veranstaltungen" %}
+  <li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">{{item.name}}</a>
+        <div class="dropdown-menu">
+        {% for veranstaltung in site.veranstaltungen %}
+          <a class="dropdown-item" href="{{ veranstaltung.path }}">{{ veranstaltung.title }}</a>  
+        {% endfor %}
+        </div>
+   </li>
+  {% else %}
   <li class="nav-item">
     <a class="nav-link" href="{{item.link}}">{{item.name}}</a>
    </li>
+  {% endif %}
   {% endfor %}
   </ul>
 </nav>
