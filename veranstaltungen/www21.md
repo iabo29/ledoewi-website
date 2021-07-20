@@ -48,6 +48,8 @@ Aufbau des Sonnensegels der [Segelmanufaktur](http://segelmanufaktur.de/)
 Alle Teilnehmenden beteiligen sich in der Regel am Auf-, Um- und Abbau, helfen beim Kochen, Putzen und Aufräumen. Wir bitten um einen achtsamen Umgang miteinander und behalten uns das Recht vor, Querdenker\*innen, Rassist\*innen und Sexist\*innen von der Veranstaltung auszuschließen. Wir wünschen uns dieses Jahr vermehrt Workshops für Kinder und Jugendliche. Kinderbetreuung soll fester Bestandteil des Programms werden.
 Wenn du Idee und Anregung hast, schreib uns gerne eine Mail an lebendigedoerfer@wichmar.eu !
 
+## Anfahrt
+
 {% include Anfahrt.html %}
 
 **Wir freuen uns auf euch!**
