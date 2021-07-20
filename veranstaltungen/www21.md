@@ -24,7 +24,7 @@ Kommt erstmal an. Richtet euch ein. Schaut euch um. Helft gern beim Kochen und r
 ## Das Workshopwochenende...
 ... lebt von allen Menschen die kommen und mitmachen. Jedes Jahr laden wir ein zu einem Wochenende des von- und miteinander Lernens. Das Workshopwochenende bietet die Gelegenheit, auf niedrigschwelligem Niveau Kenntnisse zu teilen. Alle Interessierten können von sich aus einen Workshop in unterschiedlichem Format anbieten. Aus Beruf, Studium oder Hobby – jede*r kennt sich schließlich mit etwas aus. Kräuterwanderung, Diskussionsrunden zum Thema Umweltpsychologie oder Yogastunden - für alles ist hier Platz. Außerdem gibt es ein buntes Rahmenprogramm aus musikalischen Beiträgen. Das Workshopwochenende ist nicht-kommerzieller Natur. Niemand verdient hier Geld und die Teilnahme an allem, was hier passiert, ist natürlich kostenlos. Lediglich für die Kosten, die durch Essen und Transporte entstehen, sind wir auf Spenden angewiesen, um auch jedes Jahr das Projekt weiterführen zu können.
  
-{% include image.html link=""/assets/images/wsf_aufbau_crop.jpeg" %}
+{% include image.html link="/assets/images/wsf_aufbau_crop.jpeg" %}
 Aufbau des Sonnensegels der [Segelmanufaktur](http://segelmanufaktur.de/)
 
 ## Packliste
