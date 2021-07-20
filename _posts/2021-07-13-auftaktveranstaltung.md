@@ -1,7 +1,8 @@
 ---
 title: Auftaktveranstaltung Lebendige Dörfer e.V.
 layout: post
-image: /assets/images/auftakt.png
+image: /assets/images/auftakt.png#
+date: 13.07.2021
 ---
 
 Blauer Himmel über Wichmar schenkte uns letzten Samstag strahlenden Sonnenschein für die Auftakt-veranstaltung des Förderprojektes „Lebendiges Dorf – Gemeinwesenarbeit in und um Wichmar“. Mit einem Sekt durften wir um die 50 Menschen begrüßen und auf die Gründung des Vereins „Lebendige Dörfer e.V.“ anstoßen. 
