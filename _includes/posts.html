@@ -1,0 +1,19 @@
+{% for post in site.posts %}
+  <div class="container">
+    <h2>{{ post.title }}</h2>
+    <p>{{ page.date | date_to_string }}</p>
+    {% if post.image %}
+    <div class="row">
+      <div class="col-sm">
+        {{ post.content }}
+      </div>
+      <div class="col-sm">
+        {% include image.html link={{ post.image }} %}
+      </div>
+    </div>
+    {% else %}
+    {{ post.content }}
+    {% endif %}
+  </div>
+  <hr>
+{% endfor %}

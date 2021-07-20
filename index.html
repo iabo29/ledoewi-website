@@ -10,11 +10,4 @@ Willkommen in Wichmar!
 </div>
 <hr>
 
-{% for post in site.posts %}
-  <div class="container">
-    <h2>{{ post.title }}</h2>
-    <p>{{ page.date | date_to_string }}</p>
-    {{ post.content }}
-  </div>
-  <hr>
-{% endfor %}
+{% include posts.html %}
