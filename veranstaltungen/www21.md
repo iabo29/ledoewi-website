@@ -1,7 +1,7 @@
 ---
 title: Workshopwochenende 2021
 layout: default
-categories: veranstaltung
+kategorie: Veranstaltung
 ---
 
 # Workshopwochenende 2021

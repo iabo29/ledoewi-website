@@ -5,8 +5,10 @@
   <li class="nav-item dropdown">
     <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">{{item.name}}</a>
         <div class="dropdown-menu">
-        {% for veranstaltung in site.veranstaltungen %}
-          <a class="dropdown-item" href="{{ veranstaltung.path }}">{{ veranstaltung.title }}</a>  
+        {% for seite in site.pages %}
+          {% if seite.kategorie == "Veranstaltung" %}
+            <a class="dropdown-item" href="{{ seite.path }}">{{ seite.title }}</a>  
+          {% endif %}
         {% endfor %}
         </div>
    </li>
