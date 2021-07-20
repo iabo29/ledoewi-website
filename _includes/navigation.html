@@ -7,7 +7,7 @@
         <div class="dropdown-menu">
         {% for seite in site.pages %}
           {% if seite.kategorie == "Veranstaltung" %}
-            <a class="dropdown-item" href="{{ seite.path }}">{{ seite.title }}</a>  
+            <a class="dropdown-item" href="{{ seite.url }}">{{ seite.title }}</a>  
           {% endif %}
         {% endfor %}
         </div>
