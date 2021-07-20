@@ -1,6 +1,6 @@
 ---
 title: Impressum
-layout: single
+layout: einfach
 ---
 
 # Impressum
