@@ -11,4 +11,4 @@ Jede Person in Wichmar/Würchhausen ist eingeladen, an unseren Planungstreffen u
 
 ## Nächstes Treffen
 
-Das nächste Treffen findet am **21.07.2021 18 Uhr** auf der Wiese in Würchhausen statt.
+Das nächste Treffen findet am **03.08.2021 18 Uhr** auf der Wiese in Würchhausen statt.
