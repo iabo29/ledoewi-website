@@ -58,6 +58,8 @@ kategorie: Veranstaltung
 
 ### Für Fortgeschrittene
 
+#### Bootstrap und Jekyll
+
 Die Seite verwendet die Bootstrap-Bibliothek, die das ganze Design ermöglicht. Einen Überblick, was alles möglich ist, gibt es hier: https://getbootstrap.com/docs/4.0/components Das meiste kann man problemlos von dort rüberkopieren und ins HTML-Dokument einfügen.
 
 Generell können Seiten entweder in Markdown oder in HTML geschrieben werden. Es empfiehlt sich, die Seiten in Markdown zu schreiben. Kompliziertere Elemente, die HTML benötigen, können trotzdem eingefügt werden. Dazu schreibt man den HTML-Block in eine eigene Datei (z.B. `TollesLayout.html`) und speichert den im Ordner `_includes` ab. Im Markdown-Dokument kann der dann mit der Zeile
@@ -66,3 +68,6 @@ Generell können Seiten entweder in Markdown oder in HTML geschrieben werden. Es
 ```
 eingefügt werden. Eine ausführliche Dokumentation von Jekyll (das Skript, welches die Seite zusammenbastelt) gibt es hier: https://jekyllrb.com/docs/step-by-step/01-setup/
 
+#### CSS
+
+css-Dateien verändern das Design von der Seite (Schriftarten, Farben, Schriftgrößen, Abstände, ...). Wir verwenden hier das Standard-Design von Bootstrap mit ein paar Modifikationen. Diese sind im ordner `_sass` gespeichert. Dort ist eine Datei mit den Parallax-Funktionen (d.h. dass der Hintergrund leicht versetzt mitscrollt) und eine Datei mit den Seitenspezifischem Layout. Das kann gerne geändert werden oder damit rumgespielt werden. Einführung in css-Dateien gibt es z.B. hier: https://www.w3schools.com/css/
