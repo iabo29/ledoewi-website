@@ -10,7 +10,7 @@ Angaben gemäß § 5 TMG <br />
 Lebendige Dörfer e.V. <br />
 c/o Tabea Seeßelberg <br />
 Würchausen 19 <br />
-07745 Wichmar <br />
+07774 Wichmar <br />
 Vertreten durch: <br />
 Tabea Seeßelberg <br />
 Jakob Hafemann <br />
@@ -22,8 +22,8 @@ E-Mail: lebendigedoerfer@wichmar.eu <br />
 
 ### Registereintrag:
 
-Eintragung im Registergericht: noch nicht verfügbar <br />
-Registernummer: noch nicht verfügbar <br />
+Eintragung im Vereinsregister Jena <br />
+Registerzeichen: VR 231741 (Fall 1) <br />
 
 ### Umsatzsteuer-ID:
 
