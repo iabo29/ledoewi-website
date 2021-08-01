@@ -23,6 +23,7 @@ E-Mail: lebendigedoerfer@wichmar.eu <br />
 ### Registereintrag:
 
 Eintragung im Vereinsregister Jena <br />
+Registergericht: Amtsgericht Jena <br />
 Registerzeichen: VR 231741 (Fall 1) <br />
 
 ### Umsatzsteuer-ID:
