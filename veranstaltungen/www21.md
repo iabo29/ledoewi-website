@@ -29,6 +29,12 @@ Kommt erstmal an. Richtet euch ein. Schaut euch um. Helft gern beim Kochen und r
 {% include image.html link="/assets/images/wsf_aufbau_crop.jpeg" %}
 Aufbau des Sonnensegels der [Segelmanufaktur](http://segelmanufaktur.de/)
 
+## Programm
+
+...lebt wie gesagt von euch. Hier findet, was es bisher schon gibt!
+
+https://teamup.com/ksw5d6wtwhucgfrage
+
 ## Packliste
 
 * Unterkunft (Zelt/ Kfz)
@@ -37,6 +43,9 @@ Aufbau des Sonnensegels der [Segelmanufaktur](http://segelmanufaktur.de/)
   * Teile uns bitte in der [Anmeldung](https://framaforms.org/anmeldung-zum-workshopwochenende-wichmar-1625664080) mit, wenn du einen Stellplatz für deinen fahrbaren Schlafplatz benötigst
 * Material für Workshops
   * wenn du einen Workshop anbieten möchtest, bringe möglichst alles dafür mit. Wir werden versuchen, dich bei der Durchführung (Material, Technik etc.) deines Workshops zu unterstützen. Lass uns wissen, was dir vorschwebt, was du dafür brauchst und gerne auch wann es dir passen würde.
+* Impfausweis / negatives Testergebnis (kein muss)
+* TASSE (wir werden nicht genug Tassen für alle Gäste haben, daher bringt euch bitte eine mit, restliches Geschirr haben wir)
+* Anti-Mücken- /-Zeckenmittel
 * Kopflampe für nächtliche Toilettengänge
 * Mundschutz
 * Kuchen und/oder Aufstriche
